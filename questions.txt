@@ -1,0 +1,50 @@
+ 1)How many col are present in chess board?
+ a) 8
+ b) 7
+ c) 5
+ d) 64
+ 2)In linux, which command is used to print ?
+ a) read
+ b) echo
+ c) print
+ d) ls
+ 3)Which command is used to show numbers in linux?
+ a)show nu
+ b)do nu
+ c)set nu
+ d)numbers
+ 4)Which is used to find current logged users in linux?
+ a)uname
+ b)who
+ c)whoami
+ d)W
+ 5)what is used to save and quit the vim file?
+ a)wq
+ b)q
+ c)save
+ d)qw
+ 6)what if used to create a file.
+ a)grep
+ b)bash
+ c)create 
+ d)touch
+ 7)what is used to create directories
+ a)touch
+ b)rm
+ c)mkdir
+ d)bash
+ 8)which is used to compress files
+ a)gunzip
+ b)gzip -r
+ c)gunzip-r
+ d)gzip
+ 9)How to find nth value of array
+ a)${#arr[n]}
+ b)${arr[n]}
+ c)${#arr[@]}
+ d)${arr[*]}
+ 10)which is used to find length of whole array
+ a)${#arr[@]}
+ b)${#arr[n]}
+ c)${#arr[a]}
+ d)${arr[*]}
